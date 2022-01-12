@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Cheechaa
+- 👀 I’m interested in ideas that bring ease to human lives.  
+- 🌱 I’m currently learning Javascript and blockchain development
+- 💞️ I’m looking to collaborate on projects you wish to create.
+- 📫 How to reach me pr.abhi@icloud.com
+-  My blog is SickBytes.com.
